@@ -16,8 +16,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Gloria Lim: 3rd year Biology Student
-- Henny Tjoa: 4th year Psychology Student
+- Person 1 -> Gloria Lim: 3rd year Biology Student
+- Person 2 -> Henny Tjoa: 4th year Psychology Student
 
 ## References
 
