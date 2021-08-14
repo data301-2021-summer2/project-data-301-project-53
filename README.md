@@ -1,6 +1,6 @@
 # Group 53 - {The Difference in Life Expectancy Between Developed and Developing Countries}
 
-#Explainer Video [here](https://vimeo.com/587088317)
+Explainer Video [here](https://vimeo.com/587088317)
 
 
 ## Milestones
