@@ -1,15 +1,16 @@
 import pandas as pd
-import numpy as np
 import seaborn as sns
+import numpy as np
 import os
 import matplotlib.pyplot as plt
-
+import statistics as stat
+from scripts import project_functions
 def load_and_process(path):
     df1 = (
             pd.read_csv(path)
             .rename(columns={"LifeExp":"LifeExpectancy"})
             .dropna()
-            .sort_values("Country", ascending=True)
+            .sort_values("Entity", ascending=True)
     )
     df2 = (
             df1
@@ -17,4 +18,5 @@ def load_and_process(path):
     )
     
     return df2
-    
+
+load_and_process('LifeExpectancy.csv')
